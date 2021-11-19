@@ -18,3 +18,12 @@ set termencoding=utf-8
 "    set mouse-=a endif 
 " 设置高亮搜索
 set hlsearch
+" 自动识别代码，高亮显示语法
+syntax on
+syntax on
+" 底部显示所处模式
+set showmode
+"" 按下回车键后，下一行的缩进会自动跟上一行的缩进保持一致。
+set autoindent
+" Tab 转为多少个空格
+set softtabstop=4
