@@ -26,3 +26,4 @@ set showmode
 set autoindent
 " Tab 转为多少个空格
 set softtabstop=4
+" setlocal list 显示制表符（^I）
