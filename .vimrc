@@ -54,3 +54,4 @@ set ignorecase
 " set noignorecase
 " dos 当文件从dos(CR LF)系统移动到unix(LF)系统打开后，每行的行尾就会显示^M,因为多出了CR字符
 " set fileformats=unix,dos
+" 命令模式和插入模式进行粘贴： <ctrl+r> +
